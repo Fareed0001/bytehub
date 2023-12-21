@@ -479,10 +479,6 @@ section {
     padding: 0 0 60px;
   }
 
-  .hero .container p {
-    text-align: center;
-  }
-
   .hero .hero-img img {
     margin: 3% auto 5%;
   }
@@ -503,7 +499,6 @@ section {
 
 @media (max-width: 475px) {
   #about .row p {
-    text-align: center;
     margin: 5% auto auto;
   }
 }
