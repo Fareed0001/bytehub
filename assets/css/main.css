@@ -507,15 +507,6 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-#services {
-  background-color: var(--color-primary);
-  color: white;
-}
-
-#services .section-header p {
-  color: white;
-}
-
 .service-card {
   height: 100%;
   border: none;
