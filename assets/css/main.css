@@ -524,6 +524,10 @@ section {
   text-align: justify;
 }
 
+.services dotlottie-player {
+  width: 100%;
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio
