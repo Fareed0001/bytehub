@@ -901,7 +901,7 @@ section {
 # Contact Section
 --------------------------------------------------------------*/
 .contact .info-container {
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary);
   height: 100%;
   padding: 20px;
   border-radius: 10px 0 0 10px;
@@ -914,7 +914,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary);
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1009,7 +1009,7 @@ section {
 }
 
 .contact .contact-form button[type=submit] {
-  background: var(--color-secondary);
+  background: var(--color-primary);
   border: 0;
   padding: 14px 45px;
   color: #fff;
@@ -1019,7 +1019,7 @@ section {
 }
 
 .contact .contact-form button[type=submit]:hover {
-  background: var(--color-secondary-hover);
+  background: var(--color-secondary)
 }
 
 @keyframes animate-loading {
